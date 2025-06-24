@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "781111802782",
+    "project_id": "crmapp-dd7e7",
+    "storage_bucket": "crmapp-dd7e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781111802782:android:a28ac6905d618a36e1b48f",
+        "android_client_info": {
+          "package_name": "com.example.crmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-tirRwU1tkqdRxMZASMFWvv5Y8OMDqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781111802782:android:3534950c55ef21ebe1b48f",
+        "android_client_info": {
+          "package_name": "com.example.salesbets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-tirRwU1tkqdRxMZASMFWvv5Y8OMDqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
